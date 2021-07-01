@@ -1,6 +1,7 @@
 body{
     font-family: 'Montserrat', sans-serif;
     background-color: #EDEDED;
+    
 }
 
 #title {
@@ -192,4 +193,28 @@ a {
     width: 100%;
     margin-top: 3%;
     font-size: 1.7vw;
+}
+
+#footer{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: #EDEDED;
+    font-size: 1.8vw;
+    text-align: center;
+}
+
+#links{
+    margin-bottom: 1%;
+}
+
+#footer p{
+    font-size: 1vw;
+}
+
+#links a{
+    margin-left: 0.7%;
+}
+
+#links a:hover{
+    color:lightgrey;
 }

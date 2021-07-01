@@ -143,3 +143,53 @@ a {
     margin: 8% 2% 2%;
 }
 
+#pricing{
+    padding: 5% 10% 7%;
+    background-color: #444444;
+    font-size: 1.5vw;
+}
+
+.div-title-pricing{
+    text-align: center;
+}
+
+.div-title-pricing h2, .card-header h3, .card-body h3{
+    font-weight: bold;
+}
+
+.div-title-pricing{
+    color: white;
+}
+
+.card{
+    margin: 6% 2% 0%;
+    
+    border: none;
+}
+
+.card-header{
+    background-color: #DA0037;
+    color: white;
+    padding-top: 5%;
+
+}
+
+.card-body{
+    padding-bottom: 8%;
+}
+
+.card h3{
+    font-size: 2vw;
+}
+
+.span-month{
+    font-weight: normal;
+    color: #444444;
+    font-size: 60%;
+}
+
+.btn-sign-up{
+    width: 100%;
+    margin-top: 3%;
+    font-size: 1.7vw;
+}
